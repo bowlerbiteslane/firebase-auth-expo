@@ -13,4 +13,4 @@ web-build/
 .DS_Store
 
 # sensitive data
-#firebase-config.js
+firebase-config.js
